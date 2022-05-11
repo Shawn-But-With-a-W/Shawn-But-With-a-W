@@ -1,0 +1,4 @@
+- As you can tell, my name is Shawn, and with a w.
+- Currently learning Python and the basics of everything else.
+- Ask me for life suggestions and other questions that prevent you from falling asleep.
+- Note to self: Put stuff here later
