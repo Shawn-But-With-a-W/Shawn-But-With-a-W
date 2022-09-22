@@ -3,5 +3,3 @@
 # As you can tell, my name is Shawn, but with a w.
 - A student who struggles with time management
 - Currently learning Python and the basics of everything else
-- The single person who likes the gmail profile picture
-- Ask me for life suggestions and about other questions that prevent you from falling asleep
